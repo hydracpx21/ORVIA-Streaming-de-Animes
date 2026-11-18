@@ -1,0 +1,6 @@
+{
+  "name": "ORVIA — Streaming de Animes",
+  "description": "Plataforma premium de streaming de animes em alta definição com catálogo oficial, perfis de usuário, progresso de episódios e continuidade entre dispositivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
